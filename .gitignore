@@ -1,3 +1,5 @@
 .env
+node_modules/
+
 
 // this file wil make sure that it dont push the env file to github as it contains passwords which are not to be shown
